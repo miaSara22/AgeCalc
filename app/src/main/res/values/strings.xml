@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="calculateYour">CALCULATE YOUR</string>
+    <string name="age">AGE</string>
+    <string name="selectDate">Select Date</string>
+    <string name="youAre">- You are -</string>
+    <string name="minutesOld">Minutes old</string>
+    <string name="daysOld">Days old</string>
+    <string name="monthsOld">Months old</string>
+    <string name="yearsOld">Years old</string>
+</resources>
